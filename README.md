@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jamaltheatlantean
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Solidity
+- 👋 Hi, I’m Jamal, an easy going guy with an optimistic attitude.
+- 👀 I’m interested in block-chain technology and thrilled about building all kinds of cool stuffs with it.
+- 🌱 I’m currently a solidity developer with the opportunity to have worked, and learned with high quality developers in this space.
 - 💞️ I’m looking to collaborate on block-end jobs, and anything concerning web3
-- 📫 How to reach me jamaltheatlantean@gmail.com(mail), ThatAtlantean(Twitter).
+- 📫 You can reach me through: jamaltheatlantean@gmail.com
+-   message me on twitter @ThatAtlantean
+-   or to get really personal send a DM on discord Atlantean#6306.
 
 <!---
 jamaltheatlantean/jamaltheatlantean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
