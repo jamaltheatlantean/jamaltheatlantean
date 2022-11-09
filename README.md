@@ -3,7 +3,7 @@
 - 🌱 I’m currently a Smart-Contract Engineer with the opportunity to have worked, and learned with high quality developers in the block-chain space.
 - 💞️ I’m looking to collaborate on smart contract jobs, and anything concerning the advancement of the general web3
 - 📫 You can reach me through: jamaltheatlantean@gmail.com or [Twitter](https://twitter.com/ThatAtlantean)
--   Discord Atlantean#6306.
+-   Discord TheAtlantean#6306.
 
 <!---
 jamaltheatlantean/jamaltheatlantean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
