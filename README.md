@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Jamal, an easy going guy with an optimistic attitude and a raging enthusiasm for blockchain technology. 
 - 👀 I’m interested in projects that could advance this technology and i'm thrilled about working and building all kinds of cool stuffs with cool people.
-- 🌱 I’m a Smart contract developer and technical writer.
-- 💞️ I’m looking to collaborate on writing Smart Contracts and building decentralized applications.
+- 🌱 A Blockchain developer and technical writer with a thing for smart contracts.
+- 💞️ Looking to collaborate on building decentralized applications.
 - 📫 You can reach me through: jamaltheatlantean@gmail.com or follow me on [twitter](https://twitter.com/ThatAtlantean).
 
 <!---
