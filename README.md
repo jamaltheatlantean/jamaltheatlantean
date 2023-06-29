@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Jamal, an easy going guy with an optimistic attitude and a raging enthusiasm for blockchain technology. 
+- 👋 Hey, I’m Jamal, an easy going guy with an optimistic attitude and a raging enthusiasm for writing, blockchain tech, and writing about blockchain tech. 
 - 👀 I’m interested in projects that could advance this technology and i'm thrilled about working and building all kinds of cool stuffs with cool people.
 - 🌱 A Blockchain developer and technical writer with a thing for smart contracts.
 - 💞️ Looking to collaborate on building decentralized applications.
