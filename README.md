@@ -1,6 +1,4 @@
-- 👋 Hey, I’m Jamal, a Blockchain developer and technical writer with a thing for smart contracts and the decentralized web. 
-- 👀 I’m interested in projects that could advance this technology and i'm thrilled about working and building all kinds of cool stuffs on the blockchain
-- 📫 See my Portfolio [here](https://linktr.ee/jamaltheatlantean)
+I JUST BUILD STUFF HERE.
 
 <!---
 jamaltheatlantean/jamaltheatlantean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
